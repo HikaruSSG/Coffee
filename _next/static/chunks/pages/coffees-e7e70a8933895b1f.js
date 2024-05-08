@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[294],{1645:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/coffees",function(){return e(5902)}])},5902:function(n,u,e){"use strict";e.r(u);var f=e(5893);e(7294),u.default=function(){return(0,f.jsx)("div",{children:"Coffees"})}}},function(n){n.O(0,[888,774,179],function(){return n(n.s=1645)}),_N_E=n.O()}]);
